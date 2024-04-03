@@ -27,5 +27,5 @@ public class AllUseTest {
     @Test
     public void test_5() {
         assertEquals(29000, Price.getTotalPrice(0.9, 1));
-    }
+}
 }
